@@ -35,3 +35,7 @@ Dans node-project on crée :
 `cd front`
 
 `touch front.routes.js`
+
+### Si git clone
+
+Si ce repo est cloné, il suffit de lancer la commande `npm i` dans le directory pour réinstaller les packages présents dans le package.json et ainsi recréer le fichier node_modules.
